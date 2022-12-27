@@ -1,10 +1,9 @@
-# 🚧 README em construção 🚧
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Projeto Docker To do List
+Desenvolvido no módulo de back-end do curso da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
+
+# Sobre o projeto
+Recebi uma aplicação full-stack, de um aplicativo de tarefas, pronta. Desenvolvi os arquivos de configuração, para conteinerizar
+a aplicação e assim ela funcionar.
+
+# Tecnologias utilizadas
+<li>Docker</li>
